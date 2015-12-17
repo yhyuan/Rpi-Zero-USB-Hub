@@ -1,0 +1,39 @@
+BOM:
+
+Part     Value           Package
+
+C2       0.01uF          C0603
+C5       15pf            C0603
+C6       15pF            C0603
+C7       1uF             A/3216-18W
+C9       22Pf            C0603
+C10      22Pf            C0603
+C11      22Pf            C0603
+C12      22Pf            C0603
+C13      22Pf            C0603
+C14      22Pf            C0603
+C15      1UF             A/3216-18W
+C16      1uF             C/6032-28R
+C32      22Pf            C0603
+C33      22Pf            C0603
+IC5      LD117AS33TR     SOT223
+JP1      USB-JST-2MM-SMT S4B-PH
+JP3      USB-JST-2MM-SMT S4B-PH
+JP5      USB-JST-2MM-SMT S4B-PH
+JP8      USB-JST-2MM-SMT S4B-PH
+Q2       12MHz           CTS406
+R1       15K             R0603
+R2       15K             R0603
+R3       10k             R0603
+R4       22              R0603
+R7       22              R0603
+R12      15K             R0603
+R13      15K             R0603
+R14      15K             R0603
+R15      15K             R0603
+R16      15K             R0603
+R17      15K             R0603
+R18      15k             R0603
+U$5      TUSB2046B     LQFP-32
+
+https://openhardwarecoza.wordpress.com/2015/12/07/raspberry-pi-zero-4-port-usb-hub-open-source-pcb-design/
